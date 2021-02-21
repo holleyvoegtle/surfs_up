@@ -10,8 +10,18 @@ After that analysis was completed, W. Avy wanted us to look at the data set for 
 ## Results 
 
 The results of the final analysis for temperatures in June and December showed:
-1. June’s mean temperature is 74.9 F and December is 71.1 F. 
-2. The standard deviation of both these temperatures is only about 3 degrees.
+1. June’s mean temperature is 74.9 F and December is 71.1 F. See examples of the DataFrames for the first five temperature taken in June and December:
+
+![June](https://github.com/holleyvoegtle/surfs_up/blob/main/images/JuneTemps_head.png)
+![December](https://github.com/holleyvoegtle/surfs_up/blob/main/images/DecTemps_head.png)
+
+
+2. The standard deviation of both these temperatures is only about 3 degrees. See the results is the following DataFrames:
+
+![Summary Stats for June](https://github.com/holleyvoegtle/surfs_up/blob/main/images/SummaryStatsJune.png)
+![Summary Stats for December](https://github.com/holleyvoegtle/surfs_up/blob/main/images/SummaryStatsDec.png)
+
+
 3. The maximum temperatures were only 85 F for June and 83 F for December.
 
 ## Summary 
